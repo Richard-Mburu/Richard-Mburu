@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Richard-Mburu
-- 👀 I’m interested in all things data.
-- 🌱 I’m currently learning SQL,TABLEU & POWER BI.
-- 💞️ I’m looking to collaborate on any educational, analysis and machine learning projects.
-- 📫 How to reach me ESeth49@mail.com
+Building data-driven systems for operations and decision-making.
+Work includes data pipelines, dashboards (Power BI/Tableau), and workflow automation.
+Interested in system integration, analytics, and practical data solutions.
 
 <!---
 Richard-Mburu/Richard-Mburu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
